@@ -1,0 +1,8 @@
+node_modules
+cache
+dump.rdb
+.env
+service_accounts
+cookies.json
+token.json
+client_secrets.json

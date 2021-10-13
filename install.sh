@@ -1,0 +1,1 @@
+apt-get update && apt-get install nodejs npm aria2 ffmpeg redis && npm install && npm install -g pm2 
